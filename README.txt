@@ -14,3 +14,11 @@ I - Installation :
 	Un survole sur l'icon indique dans quel vlan notre carte réseau se trouve
 	Un double clic ouvre une petite application où l'on peux modifié la liste des vlan rapidement
 	Une fois le vlan choisi une notification apparait pour annoncer que le vlan a bien été changer
+
+3 - A venir :
+	Installation automatique avec un script powershell qui peremettra de créer des répertoirs et les fichiers.
+	Lancement automatique au démmarrage en tant qu'admin
+
+3 - CONTACT
+	Email : sylvian.doudet@groupe-sb.org
+		sylvian.doudet@gmail.com
