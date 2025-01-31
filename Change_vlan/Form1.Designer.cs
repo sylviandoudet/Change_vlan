@@ -56,6 +56,11 @@
             this.vL20ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.parametreToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.carteRéseauToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.network1ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.network2ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.network3ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.network4ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.network5ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.listeDesVLANToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.quitterToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.BTN_ADD_VLAN = new System.Windows.Forms.Button();
@@ -68,11 +73,6 @@
             this.listView_Vlan_Liste = new System.Windows.Forms.ListView();
             this.Column_ID_VLAN = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.Column_Name_VLAN = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
-            this.network1ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.network2ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.network3ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.network4ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.network5ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.contextMenuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -265,6 +265,36 @@
             this.carteRéseauToolStripMenuItem.Name = "carteRéseauToolStripMenuItem";
             resources.ApplyResources(this.carteRéseauToolStripMenuItem, "carteRéseauToolStripMenuItem");
             // 
+            // network1ToolStripMenuItem
+            // 
+            this.network1ToolStripMenuItem.Name = "network1ToolStripMenuItem";
+            resources.ApplyResources(this.network1ToolStripMenuItem, "network1ToolStripMenuItem");
+            this.network1ToolStripMenuItem.Click += new System.EventHandler(this.network1ToolStripMenuItem_Click);
+            // 
+            // network2ToolStripMenuItem
+            // 
+            this.network2ToolStripMenuItem.Name = "network2ToolStripMenuItem";
+            resources.ApplyResources(this.network2ToolStripMenuItem, "network2ToolStripMenuItem");
+            this.network2ToolStripMenuItem.Click += new System.EventHandler(this.network2ToolStripMenuItem_Click);
+            // 
+            // network3ToolStripMenuItem
+            // 
+            this.network3ToolStripMenuItem.Name = "network3ToolStripMenuItem";
+            resources.ApplyResources(this.network3ToolStripMenuItem, "network3ToolStripMenuItem");
+            this.network3ToolStripMenuItem.Click += new System.EventHandler(this.network3ToolStripMenuItem_Click);
+            // 
+            // network4ToolStripMenuItem
+            // 
+            this.network4ToolStripMenuItem.Name = "network4ToolStripMenuItem";
+            resources.ApplyResources(this.network4ToolStripMenuItem, "network4ToolStripMenuItem");
+            this.network4ToolStripMenuItem.Click += new System.EventHandler(this.network4ToolStripMenuItem_Click);
+            // 
+            // network5ToolStripMenuItem
+            // 
+            this.network5ToolStripMenuItem.Name = "network5ToolStripMenuItem";
+            resources.ApplyResources(this.network5ToolStripMenuItem, "network5ToolStripMenuItem");
+            this.network5ToolStripMenuItem.Click += new System.EventHandler(this.network5ToolStripMenuItem_Click);
+            // 
             // listeDesVLANToolStripMenuItem
             // 
             this.listeDesVLANToolStripMenuItem.Name = "listeDesVLANToolStripMenuItem";
@@ -342,36 +372,6 @@
             // Column_Name_VLAN
             // 
             resources.ApplyResources(this.Column_Name_VLAN, "Column_Name_VLAN");
-            // 
-            // network1ToolStripMenuItem
-            // 
-            this.network1ToolStripMenuItem.Name = "network1ToolStripMenuItem";
-            resources.ApplyResources(this.network1ToolStripMenuItem, "network1ToolStripMenuItem");
-            this.network1ToolStripMenuItem.Click += new System.EventHandler(this.network1ToolStripMenuItem_Click);
-            // 
-            // network2ToolStripMenuItem
-            // 
-            this.network2ToolStripMenuItem.Name = "network2ToolStripMenuItem";
-            resources.ApplyResources(this.network2ToolStripMenuItem, "network2ToolStripMenuItem");
-            this.network2ToolStripMenuItem.Click += new System.EventHandler(this.network2ToolStripMenuItem_Click);
-            // 
-            // network3ToolStripMenuItem
-            // 
-            this.network3ToolStripMenuItem.Name = "network3ToolStripMenuItem";
-            resources.ApplyResources(this.network3ToolStripMenuItem, "network3ToolStripMenuItem");
-            this.network3ToolStripMenuItem.Click += new System.EventHandler(this.network3ToolStripMenuItem_Click);
-            // 
-            // network4ToolStripMenuItem
-            // 
-            this.network4ToolStripMenuItem.Name = "network4ToolStripMenuItem";
-            resources.ApplyResources(this.network4ToolStripMenuItem, "network4ToolStripMenuItem");
-            this.network4ToolStripMenuItem.Click += new System.EventHandler(this.network4ToolStripMenuItem_Click);
-            // 
-            // network5ToolStripMenuItem
-            // 
-            this.network5ToolStripMenuItem.Name = "network5ToolStripMenuItem";
-            resources.ApplyResources(this.network5ToolStripMenuItem, "network5ToolStripMenuItem");
-            this.network5ToolStripMenuItem.Click += new System.EventHandler(this.network5ToolStripMenuItem_Click);
             // 
             // VlanChangerApp
             // 

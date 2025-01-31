@@ -7,6 +7,7 @@ using System.Linq;
 using System.Management;
 using System.Management.Automation;
 using System.Reflection;
+using System.Security.Principal;
 using System.Threading;
 using System.Windows.Forms;
 
@@ -25,9 +26,17 @@ namespace Change_vlan
         string NameNetworkCard;
         int close = 0;
 
+       
+
         public VlanChangerApp()
         {
             InitializeComponent();
+        //    Application.EnableVisualStyles();
+        //    Application.SetCompatibleTextRenderingDefault(false);
+        //    Application.Run(new VlanChangerApp());
+            
+           
+            
 
             // Définir KeyPreview sur true pour que le formulaire puisse gérer les événements clavier en premier
             this.KeyPreview = true;
@@ -112,11 +121,9 @@ namespace Change_vlan
                                 UncheckStripMenuNetwork();
                                 item.Checked = true;
                             }
-
                             i++;
                         }
                     }
-
                     // Diminuez indexedSize
                     indexedSize--;
                 }
@@ -604,9 +611,19 @@ namespace Change_vlan
                 }
                 GetSelectedNetworkAdapterVlanID();
             }
-            catch (Exception ex)
+            catch (Exception e)
             {
-                MessageBox.Show("Erreur : " + ex.Message, "Erreur", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                string errorMessage = $"[ERREUR] {DateTime.Now}\n"
+                        + $"Message: {e.Message}\n"
+                        + $"Source: {e.Source}\n"
+                        + $"StackTrace: {e.StackTrace}\n"
+                        + (e.InnerException != null ? $"InnerException: {e.InnerException.Message}\n" : "");
+
+                // Afficher dans la console
+                Console.WriteLine(errorMessage);
+
+                // Afficher dans un MessageBox (utile pour les applications GUI)
+                MessageBox.Show(errorMessage, "Erreur", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
@@ -638,9 +655,19 @@ namespace Change_vlan
                     ActualizeVlanListe();
                 }
             }
-            catch (Exception ex)
+            catch (Exception e)
             {
-                MessageBox.Show("Erreur : " + ex.Message, "Erreur", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                string errorMessage = $"[ERREUR] {DateTime.Now}\n"
+                        + $"Message: {e.Message}\n"
+                        + $"Source: {e.Source}\n"
+                        + $"StackTrace: {e.StackTrace}\n"
+                        + (e.InnerException != null ? $"InnerException: {e.InnerException.Message}\n" : "");
+
+                // Afficher dans la console
+                Console.WriteLine(errorMessage);
+
+                // Afficher dans un MessageBox (utile pour les applications GUI)
+                MessageBox.Show(errorMessage, "Erreur", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 

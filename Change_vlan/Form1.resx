@@ -132,13 +132,13 @@
     <value>Segoe UI, 9pt, style=Bold</value>
   </data>
   <data name="nToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>240, 32</value>
+    <value>174, 32</value>
   </data>
   <data name="nToolStripMenuItem.Text" xml:space="preserve">
     <value>Nom carte</value>
   </data>
   <data name="vL1ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>270, 34</value>
+    <value>153, 34</value>
   </data>
   <data name="vL1ToolStripMenuItem.Text" xml:space="preserve">
     <value>VL1</value>
@@ -147,7 +147,7 @@
     <value>False</value>
   </data>
   <data name="vL2ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>270, 34</value>
+    <value>153, 34</value>
   </data>
   <data name="vL2ToolStripMenuItem.Text" xml:space="preserve">
     <value>VL2</value>
@@ -156,7 +156,7 @@
     <value>False</value>
   </data>
   <data name="vL3ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>270, 34</value>
+    <value>153, 34</value>
   </data>
   <data name="vL3ToolStripMenuItem.Text" xml:space="preserve">
     <value>VL3</value>
@@ -165,7 +165,7 @@
     <value>False</value>
   </data>
   <data name="vL4ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>270, 34</value>
+    <value>153, 34</value>
   </data>
   <data name="vL4ToolStripMenuItem.Text" xml:space="preserve">
     <value>VL4</value>
@@ -174,13 +174,13 @@
     <value>False</value>
   </data>
   <data name="vL5ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>270, 34</value>
+    <value>153, 34</value>
   </data>
   <data name="vL5ToolStripMenuItem.Text" xml:space="preserve">
     <value>VL5</value>
   </data>
   <data name="vL6ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>270, 34</value>
+    <value>153, 34</value>
   </data>
   <data name="vL6ToolStripMenuItem.Text" xml:space="preserve">
     <value>VL6</value>
@@ -189,13 +189,13 @@
     <value>False</value>
   </data>
   <data name="vL7ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>270, 34</value>
+    <value>153, 34</value>
   </data>
   <data name="vL7ToolStripMenuItem.Text" xml:space="preserve">
     <value>VL7</value>
   </data>
   <data name="vL8ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>270, 34</value>
+    <value>153, 34</value>
   </data>
   <data name="vL8ToolStripMenuItem.Text" xml:space="preserve">
     <value>VL8</value>
@@ -204,7 +204,7 @@
     <value>False</value>
   </data>
   <data name="vL9ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>270, 34</value>
+    <value>153, 34</value>
   </data>
   <data name="vL9ToolStripMenuItem.Text" xml:space="preserve">
     <value>VL9</value>
@@ -213,7 +213,7 @@
     <value>False</value>
   </data>
   <data name="vL10ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>270, 34</value>
+    <value>153, 34</value>
   </data>
   <data name="vL10ToolStripMenuItem.Text" xml:space="preserve">
     <value>VL10</value>
@@ -222,7 +222,7 @@
     <value>False</value>
   </data>
   <data name="vL11ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>270, 34</value>
+    <value>153, 34</value>
   </data>
   <data name="vL11ToolStripMenuItem.Text" xml:space="preserve">
     <value>VL11</value>
@@ -231,7 +231,7 @@
     <value>False</value>
   </data>
   <data name="vL12ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>270, 34</value>
+    <value>153, 34</value>
   </data>
   <data name="vL12ToolStripMenuItem.Text" xml:space="preserve">
     <value>VL12</value>
@@ -240,7 +240,7 @@
     <value>False</value>
   </data>
   <data name="vL13ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>270, 34</value>
+    <value>153, 34</value>
   </data>
   <data name="vL13ToolStripMenuItem.Text" xml:space="preserve">
     <value>VL13</value>
@@ -249,7 +249,7 @@
     <value>False</value>
   </data>
   <data name="vL14ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>270, 34</value>
+    <value>153, 34</value>
   </data>
   <data name="vL14ToolStripMenuItem.Text" xml:space="preserve">
     <value>VL14</value>
@@ -258,7 +258,7 @@
     <value>False</value>
   </data>
   <data name="vL15ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>270, 34</value>
+    <value>153, 34</value>
   </data>
   <data name="vL15ToolStripMenuItem.Text" xml:space="preserve">
     <value>VL15</value>
@@ -267,7 +267,7 @@
     <value>False</value>
   </data>
   <data name="vL16ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>270, 34</value>
+    <value>153, 34</value>
   </data>
   <data name="vL16ToolStripMenuItem.Text" xml:space="preserve">
     <value>VL16</value>
@@ -276,7 +276,7 @@
     <value>False</value>
   </data>
   <data name="vL17ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>270, 34</value>
+    <value>153, 34</value>
   </data>
   <data name="vL17ToolStripMenuItem.Text" xml:space="preserve">
     <value>VL17</value>
@@ -285,7 +285,7 @@
     <value>False</value>
   </data>
   <data name="vL18ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>270, 34</value>
+    <value>153, 34</value>
   </data>
   <data name="vL18ToolStripMenuItem.Text" xml:space="preserve">
     <value>VL18</value>
@@ -294,7 +294,7 @@
     <value>False</value>
   </data>
   <data name="vL19ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>270, 34</value>
+    <value>153, 34</value>
   </data>
   <data name="vL19ToolStripMenuItem.Text" xml:space="preserve">
     <value>VL19</value>
@@ -303,7 +303,7 @@
     <value>False</value>
   </data>
   <data name="vL20ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>270, 34</value>
+    <value>153, 34</value>
   </data>
   <data name="vL20ToolStripMenuItem.Text" xml:space="preserve">
     <value>VL20</value>
@@ -312,13 +312,13 @@
     <value>False</value>
   </data>
   <data name="vLANToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>240, 32</value>
+    <value>174, 32</value>
   </data>
   <data name="vLANToolStripMenuItem.Text" xml:space="preserve">
     <value>VLAN</value>
   </data>
   <data name="network1ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>270, 34</value>
+    <value>191, 34</value>
   </data>
   <data name="network1ToolStripMenuItem.Text" xml:space="preserve">
     <value>Network1</value>
@@ -327,7 +327,7 @@
     <value>False</value>
   </data>
   <data name="network2ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>270, 34</value>
+    <value>191, 34</value>
   </data>
   <data name="network2ToolStripMenuItem.Text" xml:space="preserve">
     <value>Network2</value>
@@ -336,7 +336,7 @@
     <value>False</value>
   </data>
   <data name="network3ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>270, 34</value>
+    <value>191, 34</value>
   </data>
   <data name="network3ToolStripMenuItem.Text" xml:space="preserve">
     <value>Network3</value>
@@ -345,7 +345,7 @@
     <value>False</value>
   </data>
   <data name="network4ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>270, 34</value>
+    <value>191, 34</value>
   </data>
   <data name="network4ToolStripMenuItem.Text" xml:space="preserve">
     <value>Network4</value>
@@ -354,7 +354,7 @@
     <value>False</value>
   </data>
   <data name="network5ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>270, 34</value>
+    <value>191, 34</value>
   </data>
   <data name="network5ToolStripMenuItem.Text" xml:space="preserve">
     <value>Network5</value>
@@ -363,31 +363,31 @@
     <value>False</value>
   </data>
   <data name="carteRéseauToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>270, 34</value>
+    <value>240, 34</value>
   </data>
   <data name="carteRéseauToolStripMenuItem.Text" xml:space="preserve">
     <value>Carte Réseau</value>
   </data>
   <data name="listeDesVLANToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>270, 34</value>
+    <value>240, 34</value>
   </data>
   <data name="listeDesVLANToolStripMenuItem.Text" xml:space="preserve">
     <value>Liste des VLANs</value>
   </data>
   <data name="parametreToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>240, 32</value>
+    <value>174, 32</value>
   </data>
   <data name="parametreToolStripMenuItem.Text" xml:space="preserve">
     <value>Paramètres</value>
   </data>
   <data name="quitterToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>240, 32</value>
+    <value>174, 32</value>
   </data>
   <data name="quitterToolStripMenuItem.Text" xml:space="preserve">
     <value>Quitter</value>
   </data>
   <data name="contextMenuStrip1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>241, 165</value>
+    <value>175, 132</value>
   </data>
   <data name="&gt;&gt;contextMenuStrip1.Name" xml:space="preserve">
     <value>contextMenuStrip1</value>
@@ -1525,30 +1525,6 @@
   <data name="&gt;&gt;carteRéseauToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;listeDesVLANToolStripMenuItem.Name" xml:space="preserve">
-    <value>listeDesVLANToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;listeDesVLANToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;quitterToolStripMenuItem.Name" xml:space="preserve">
-    <value>quitterToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;quitterToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;Column_ID_VLAN.Name" xml:space="preserve">
-    <value>Column_ID_VLAN</value>
-  </data>
-  <data name="&gt;&gt;Column_ID_VLAN.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;Column_Name_VLAN.Name" xml:space="preserve">
-    <value>Column_Name_VLAN</value>
-  </data>
-  <data name="&gt;&gt;Column_Name_VLAN.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="&gt;&gt;network1ToolStripMenuItem.Name" xml:space="preserve">
     <value>network1ToolStripMenuItem</value>
   </data>
@@ -1578,6 +1554,30 @@
   </data>
   <data name="&gt;&gt;network5ToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;listeDesVLANToolStripMenuItem.Name" xml:space="preserve">
+    <value>listeDesVLANToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;listeDesVLANToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;quitterToolStripMenuItem.Name" xml:space="preserve">
+    <value>quitterToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;quitterToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Column_ID_VLAN.Name" xml:space="preserve">
+    <value>Column_ID_VLAN</value>
+  </data>
+  <data name="&gt;&gt;Column_ID_VLAN.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Column_Name_VLAN.Name" xml:space="preserve">
+    <value>Column_Name_VLAN</value>
+  </data>
+  <data name="&gt;&gt;Column_Name_VLAN.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>VlanChangerApp</value>
