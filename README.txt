@@ -3,6 +3,7 @@ Comment utilisé l'application pour changer de vlan :
 I - Installation :
 	Placer le dossier Vlan_Changer dans "C:\Program Files\"
 	Assurer vous que la case "Exécuter en tant qu'administrateur" est bien active
+	Installer .net 4.8
 
 
 2 - Utilisation :
