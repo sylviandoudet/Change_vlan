@@ -18,6 +18,7 @@ I - Installation :
 3 - A venir :
 	Installation automatique avec un script powershell qui peremettra de créer des répertoirs et les fichiers.
 	Lancement automatique au démmarrage en tant qu'admin
+	Possibilité de choisir une addresse ip ou dhcp suivant le vlan choisi
 
 3 - CONTACT
 	Email : sylvian.doudet@groupe-sb.org
