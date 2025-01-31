@@ -27,6 +27,8 @@ namespace Change_vlan
         int close = 0;
        
 
+       
+
         public VlanChangerApp()
         {
             InitializeComponent();
