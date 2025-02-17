@@ -98,7 +98,3 @@ Exemple : Ethernet1
 ### Contacter le support
 
 Pour toute question ou problème, veuillez contacter le support à l'adresse suivante : sylvian.doudet@groupe-sb.org
-
-## Licence
-
-VlanChangerApp est distribué sous la licence MIT. Voir le fichier `LICENSE` pour plus d'informations.
