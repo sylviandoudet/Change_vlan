@@ -137,242 +137,41 @@
   <data name="nToolStripMenuItem.Text" xml:space="preserve">
     <value>Nom carte</value>
   </data>
-  <data name="vL1ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>153, 34</value>
-  </data>
-  <data name="vL1ToolStripMenuItem.Text" xml:space="preserve">
-    <value>VL1</value>
-  </data>
-  <data name="vL1ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="vL2ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>153, 34</value>
-  </data>
-  <data name="vL2ToolStripMenuItem.Text" xml:space="preserve">
-    <value>VL2</value>
-  </data>
-  <data name="vL2ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="vL3ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>153, 34</value>
-  </data>
-  <data name="vL3ToolStripMenuItem.Text" xml:space="preserve">
-    <value>VL3</value>
-  </data>
-  <data name="vL3ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="vL4ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>153, 34</value>
-  </data>
-  <data name="vL4ToolStripMenuItem.Text" xml:space="preserve">
-    <value>VL4</value>
-  </data>
-  <data name="vL4ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="vL5ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>153, 34</value>
-  </data>
-  <data name="vL5ToolStripMenuItem.Text" xml:space="preserve">
-    <value>VL5</value>
-  </data>
-  <data name="vL6ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>153, 34</value>
-  </data>
-  <data name="vL6ToolStripMenuItem.Text" xml:space="preserve">
-    <value>VL6</value>
-  </data>
-  <data name="vL6ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="vL7ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>153, 34</value>
-  </data>
-  <data name="vL7ToolStripMenuItem.Text" xml:space="preserve">
-    <value>VL7</value>
-  </data>
-  <data name="vL8ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>153, 34</value>
-  </data>
-  <data name="vL8ToolStripMenuItem.Text" xml:space="preserve">
-    <value>VL8</value>
-  </data>
-  <data name="vL8ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="vL9ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>153, 34</value>
-  </data>
-  <data name="vL9ToolStripMenuItem.Text" xml:space="preserve">
-    <value>VL9</value>
-  </data>
-  <data name="vL9ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="vL10ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>153, 34</value>
-  </data>
-  <data name="vL10ToolStripMenuItem.Text" xml:space="preserve">
-    <value>VL10</value>
-  </data>
-  <data name="vL10ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="vL11ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>153, 34</value>
-  </data>
-  <data name="vL11ToolStripMenuItem.Text" xml:space="preserve">
-    <value>VL11</value>
-  </data>
-  <data name="vL11ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="vL12ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>153, 34</value>
-  </data>
-  <data name="vL12ToolStripMenuItem.Text" xml:space="preserve">
-    <value>VL12</value>
-  </data>
-  <data name="vL12ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="vL13ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>153, 34</value>
-  </data>
-  <data name="vL13ToolStripMenuItem.Text" xml:space="preserve">
-    <value>VL13</value>
-  </data>
-  <data name="vL13ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="vL14ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>153, 34</value>
-  </data>
-  <data name="vL14ToolStripMenuItem.Text" xml:space="preserve">
-    <value>VL14</value>
-  </data>
-  <data name="vL14ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="vL15ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>153, 34</value>
-  </data>
-  <data name="vL15ToolStripMenuItem.Text" xml:space="preserve">
-    <value>VL15</value>
-  </data>
-  <data name="vL15ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="vL16ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>153, 34</value>
-  </data>
-  <data name="vL16ToolStripMenuItem.Text" xml:space="preserve">
-    <value>VL16</value>
-  </data>
-  <data name="vL16ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="vL17ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>153, 34</value>
-  </data>
-  <data name="vL17ToolStripMenuItem.Text" xml:space="preserve">
-    <value>VL17</value>
-  </data>
-  <data name="vL17ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="vL18ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>153, 34</value>
-  </data>
-  <data name="vL18ToolStripMenuItem.Text" xml:space="preserve">
-    <value>VL18</value>
-  </data>
-  <data name="vL18ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="vL19ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>153, 34</value>
-  </data>
-  <data name="vL19ToolStripMenuItem.Text" xml:space="preserve">
-    <value>VL19</value>
-  </data>
-  <data name="vL19ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="vL20ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>153, 34</value>
-  </data>
-  <data name="vL20ToolStripMenuItem.Text" xml:space="preserve">
-    <value>VL20</value>
-  </data>
-  <data name="vL20ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
   <data name="vLANToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>174, 32</value>
   </data>
   <data name="vLANToolStripMenuItem.Text" xml:space="preserve">
     <value>VLAN</value>
   </data>
-  <data name="network1ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>191, 34</value>
-  </data>
-  <data name="network1ToolStripMenuItem.Text" xml:space="preserve">
-    <value>Network1</value>
-  </data>
-  <data name="network1ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="network2ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>191, 34</value>
-  </data>
-  <data name="network2ToolStripMenuItem.Text" xml:space="preserve">
-    <value>Network2</value>
-  </data>
-  <data name="network2ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="network3ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>191, 34</value>
-  </data>
-  <data name="network3ToolStripMenuItem.Text" xml:space="preserve">
-    <value>Network3</value>
-  </data>
-  <data name="network3ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="network4ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>191, 34</value>
-  </data>
-  <data name="network4ToolStripMenuItem.Text" xml:space="preserve">
-    <value>Network4</value>
-  </data>
-  <data name="network4ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="network5ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>191, 34</value>
-  </data>
-  <data name="network5ToolStripMenuItem.Text" xml:space="preserve">
-    <value>Network5</value>
-  </data>
-  <data name="network5ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
   <data name="carteRéseauToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>240, 34</value>
+    <value>270, 34</value>
   </data>
   <data name="carteRéseauToolStripMenuItem.Text" xml:space="preserve">
     <value>Carte Réseau</value>
   </data>
   <data name="listeDesVLANToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>240, 34</value>
+    <value>270, 34</value>
   </data>
   <data name="listeDesVLANToolStripMenuItem.Text" xml:space="preserve">
     <value>Liste des VLANs</value>
+  </data>
+  <data name="activerToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="activerToolStripMenuItem.Text" xml:space="preserve">
+    <value>Activer</value>
+  </data>
+  <data name="désactiverToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="désactiverToolStripMenuItem.Text" xml:space="preserve">
+    <value>Désactiver</value>
+  </data>
+  <data name="iPAUTOToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="iPAUTOToolStripMenuItem.Text" xml:space="preserve">
+    <value>IP AUTO</value>
   </data>
   <data name="parametreToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>174, 32</value>
@@ -772,8 +571,227 @@
   <data name="notifyIcon1.Visible" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
+  <data name="vL1ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="vL1ToolStripMenuItem.Text" xml:space="preserve">
+    <value>VL1</value>
+  </data>
+  <data name="vL1ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="vL2ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="vL2ToolStripMenuItem.Text" xml:space="preserve">
+    <value>VL2</value>
+  </data>
+  <data name="vL2ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="vL3ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="vL3ToolStripMenuItem.Text" xml:space="preserve">
+    <value>VL3</value>
+  </data>
+  <data name="vL3ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="vL4ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="vL4ToolStripMenuItem.Text" xml:space="preserve">
+    <value>VL4</value>
+  </data>
+  <data name="vL4ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="vL5ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="vL5ToolStripMenuItem.Text" xml:space="preserve">
+    <value>VL5</value>
+  </data>
+  <data name="vL6ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="vL6ToolStripMenuItem.Text" xml:space="preserve">
+    <value>VL6</value>
+  </data>
+  <data name="vL6ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="vL7ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="vL7ToolStripMenuItem.Text" xml:space="preserve">
+    <value>VL7</value>
+  </data>
+  <data name="vL8ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="vL8ToolStripMenuItem.Text" xml:space="preserve">
+    <value>VL8</value>
+  </data>
+  <data name="vL8ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="vL9ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="vL9ToolStripMenuItem.Text" xml:space="preserve">
+    <value>VL9</value>
+  </data>
+  <data name="vL9ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="vL10ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="vL10ToolStripMenuItem.Text" xml:space="preserve">
+    <value>VL10</value>
+  </data>
+  <data name="vL10ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="vL11ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="vL11ToolStripMenuItem.Text" xml:space="preserve">
+    <value>VL11</value>
+  </data>
+  <data name="vL11ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="vL12ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="vL12ToolStripMenuItem.Text" xml:space="preserve">
+    <value>VL12</value>
+  </data>
+  <data name="vL12ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="vL13ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="vL13ToolStripMenuItem.Text" xml:space="preserve">
+    <value>VL13</value>
+  </data>
+  <data name="vL13ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="vL14ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="vL14ToolStripMenuItem.Text" xml:space="preserve">
+    <value>VL14</value>
+  </data>
+  <data name="vL14ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="vL15ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="vL15ToolStripMenuItem.Text" xml:space="preserve">
+    <value>VL15</value>
+  </data>
+  <data name="vL15ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="vL16ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="vL16ToolStripMenuItem.Text" xml:space="preserve">
+    <value>VL16</value>
+  </data>
+  <data name="vL16ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="vL17ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="vL17ToolStripMenuItem.Text" xml:space="preserve">
+    <value>VL17</value>
+  </data>
+  <data name="vL17ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="vL18ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="vL18ToolStripMenuItem.Text" xml:space="preserve">
+    <value>VL18</value>
+  </data>
+  <data name="vL18ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="vL19ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="vL19ToolStripMenuItem.Text" xml:space="preserve">
+    <value>VL19</value>
+  </data>
+  <data name="vL19ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="vL20ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="vL20ToolStripMenuItem.Text" xml:space="preserve">
+    <value>VL20</value>
+  </data>
+  <data name="vL20ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="network1ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="network1ToolStripMenuItem.Text" xml:space="preserve">
+    <value>Network1</value>
+  </data>
+  <data name="network1ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="network2ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="network2ToolStripMenuItem.Text" xml:space="preserve">
+    <value>Network2</value>
+  </data>
+  <data name="network2ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="network3ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="network3ToolStripMenuItem.Text" xml:space="preserve">
+    <value>Network3</value>
+  </data>
+  <data name="network3ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="network4ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="network4ToolStripMenuItem.Text" xml:space="preserve">
+    <value>Network4</value>
+  </data>
+  <data name="network4ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="network5ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>270, 34</value>
+  </data>
+  <data name="network5ToolStripMenuItem.Text" xml:space="preserve">
+    <value>Network5</value>
+  </data>
+  <data name="network5ToolStripMenuItem.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
   <data name="BTN_ADD_VLAN.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 104</value>
+    <value>3, 167</value>
   </data>
   <data name="BTN_ADD_VLAN.Size" type="System.Drawing.Size, System.Drawing">
     <value>122, 30</value>
@@ -794,7 +812,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;BTN_ADD_VLAN.ZOrder" xml:space="preserve">
-    <value>8</value>
+    <value>15</value>
   </data>
   <data name="BTN_SUPP_VLAN.Enabled" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -804,7 +822,7 @@
     <value>NoControl</value>
   </data>
   <data name="BTN_SUPP_VLAN.Location" type="System.Drawing.Point, System.Drawing">
-    <value>166, 104</value>
+    <value>206, 167</value>
   </data>
   <data name="BTN_SUPP_VLAN.Size" type="System.Drawing.Size, System.Drawing">
     <value>122, 30</value>
@@ -825,7 +843,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;BTN_SUPP_VLAN.ZOrder" xml:space="preserve">
-    <value>7</value>
+    <value>14</value>
   </data>
   <data name="BTN_MODIF_VLAN.Enabled" type="System.Boolean, mscorlib">
     <value>False</value>
@@ -834,7 +852,7 @@
     <value>NoControl</value>
   </data>
   <data name="BTN_MODIF_VLAN.Location" type="System.Drawing.Point, System.Drawing">
-    <value>328, 104</value>
+    <value>401, 167</value>
   </data>
   <data name="BTN_MODIF_VLAN.Size" type="System.Drawing.Size, System.Drawing">
     <value>122, 30</value>
@@ -855,16 +873,16 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;BTN_MODIF_VLAN.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>13</value>
   </data>
   <data name="txtB_ID_VLAN.Location" type="System.Drawing.Point, System.Drawing">
     <value>111, 14</value>
   </data>
   <data name="txtB_ID_VLAN.Size" type="System.Drawing.Size, System.Drawing">
-    <value>339, 26</value>
+    <value>412, 26</value>
   </data>
   <data name="txtB_ID_VLAN.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
+    <value>1</value>
   </data>
   <data name="&gt;&gt;txtB_ID_VLAN.Name" xml:space="preserve">
     <value>txtB_ID_VLAN</value>
@@ -876,16 +894,16 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;txtB_ID_VLAN.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>12</value>
   </data>
   <data name="txtB_Name_VLAN.Location" type="System.Drawing.Point, System.Drawing">
     <value>111, 58</value>
   </data>
   <data name="txtB_Name_VLAN.Size" type="System.Drawing.Size, System.Drawing">
-    <value>339, 26</value>
+    <value>412, 26</value>
   </data>
   <data name="txtB_Name_VLAN.TabIndex" type="System.Int32, mscorlib">
-    <value>11</value>
+    <value>2</value>
   </data>
   <data name="&gt;&gt;txtB_Name_VLAN.Name" xml:space="preserve">
     <value>txtB_Name_VLAN</value>
@@ -897,7 +915,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;txtB_Name_VLAN.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>11</value>
   </data>
   <data name="lb_ID_VLAN.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -924,7 +942,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;lb_ID_VLAN.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>10</value>
   </data>
   <data name="lb_Name_VLAN.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -954,25 +972,13 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;lb_Name_VLAN.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="Column_ID_VLAN.Text" xml:space="preserve">
-    <value>ID VLAN</value>
-  </data>
-  <data name="Column_ID_VLAN.Width" type="System.Int32, mscorlib">
-    <value>76</value>
-  </data>
-  <data name="Column_Name_VLAN.Text" xml:space="preserve">
-    <value>Nom VLAN</value>
-  </data>
-  <data name="Column_Name_VLAN.Width" type="System.Int32, mscorlib">
-    <value>371</value>
+    <value>9</value>
   </data>
   <data name="listView_Vlan_Liste.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 140</value>
+    <value>3, 203</value>
   </data>
   <data name="listView_Vlan_Liste.Size" type="System.Drawing.Size, System.Drawing">
-    <value>447, 755</value>
+    <value>527, 692</value>
   </data>
   <data name="listView_Vlan_Liste.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
@@ -987,8 +993,218 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;listView_Vlan_Liste.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="Column_ID_VLAN.Text" xml:space="preserve">
+    <value>ID VLAN</value>
+  </data>
+  <data name="Column_ID_VLAN.Width" type="System.Int32, mscorlib">
+    <value>80</value>
+  </data>
+  <data name="Column_Name_VLAN.Text" xml:space="preserve">
+    <value>Nom VLAN</value>
+  </data>
+  <data name="Column_Name_VLAN.Width" type="System.Int32, mscorlib">
+    <value>160</value>
+  </data>
+  <data name="Column_IP_Adresse.Text" xml:space="preserve">
+    <value>Adresse IP / CIDR</value>
+  </data>
+  <data name="Column_IP_Adresse.Width" type="System.Int32, mscorlib">
+    <value>205</value>
+  </data>
+  <data name="lb_ip_adresse.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lb_ip_adresse.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lb_ip_adresse.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 132</value>
+  </data>
+  <data name="lb_ip_adresse.Size" type="System.Drawing.Size, System.Drawing">
+    <value>95, 20</value>
+  </data>
+  <data name="lb_ip_adresse.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="lb_ip_adresse.Text" xml:space="preserve">
+    <value>Adresse IP :</value>
+  </data>
+  <data name="&gt;&gt;lb_ip_adresse.Name" xml:space="preserve">
+    <value>lb_ip_adresse</value>
+  </data>
+  <data name="&gt;&gt;lb_ip_adresse.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lb_ip_adresse.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lb_ip_adresse.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="txtB_IP_Adresse.Location" type="System.Drawing.Point, System.Drawing">
+    <value>109, 129</value>
+  </data>
+  <data name="txtB_IP_Adresse.Size" type="System.Drawing.Size, System.Drawing">
+    <value>332, 26</value>
+  </data>
+  <data name="txtB_IP_Adresse.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;txtB_IP_Adresse.Name" xml:space="preserve">
+    <value>txtB_IP_Adresse</value>
+  </data>
+  <data name="&gt;&gt;txtB_IP_Adresse.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtB_IP_Adresse.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtB_IP_Adresse.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="txtB_CIDR.Location" type="System.Drawing.Point, System.Drawing">
+    <value>466, 129</value>
+  </data>
+  <data name="txtB_CIDR.Size" type="System.Drawing.Size, System.Drawing">
+    <value>57, 26</value>
+  </data>
+  <data name="txtB_CIDR.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;txtB_CIDR.Name" xml:space="preserve">
+    <value>txtB_CIDR</value>
+  </data>
+  <data name="&gt;&gt;txtB_CIDR.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtB_CIDR.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtB_CIDR.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="lb_cidr.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lb_cidr.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lb_cidr.Location" type="System.Drawing.Point, System.Drawing">
+    <value>447, 132</value>
+  </data>
+  <data name="lb_cidr.Size" type="System.Drawing.Size, System.Drawing">
+    <value>13, 20</value>
+  </data>
+  <data name="lb_cidr.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="lb_cidr.Text" xml:space="preserve">
+    <value>/</value>
+  </data>
+  <data name="&gt;&gt;lb_cidr.Name" xml:space="preserve">
+    <value>lb_cidr</value>
+  </data>
+  <data name="&gt;&gt;lb_cidr.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lb_cidr.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lb_cidr.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="lb_ip_mode.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lb_ip_mode.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lb_ip_mode.Location" type="System.Drawing.Point, System.Drawing">
+    <value>9, 98</value>
+  </data>
+  <data name="lb_ip_mode.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 20</value>
+  </data>
+  <data name="lb_ip_mode.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="lb_ip_mode.Text" xml:space="preserve">
+    <value>IP Mode :</value>
+  </data>
+  <data name="&gt;&gt;lb_ip_mode.Name" xml:space="preserve">
+    <value>lb_ip_mode</value>
+  </data>
+  <data name="&gt;&gt;lb_ip_mode.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lb_ip_mode.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;lb_ip_mode.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="cB_ip_static.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="cB_ip_static.CheckAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="cB_ip_static.Location" type="System.Drawing.Point, System.Drawing">
+    <value>111, 97</value>
+  </data>
+  <data name="cB_ip_static.Size" type="System.Drawing.Size, System.Drawing">
+    <value>76, 24</value>
+  </data>
+  <data name="cB_ip_static.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="cB_ip_static.Text" xml:space="preserve">
+    <value>Static</value>
+  </data>
+  <data name="&gt;&gt;cB_ip_static.Name" xml:space="preserve">
+    <value>cB_ip_static</value>
+  </data>
+  <data name="&gt;&gt;cB_ip_static.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cB_ip_static.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;cB_ip_static.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="cB_ip_dhcp.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="cB_ip_dhcp.Location" type="System.Drawing.Point, System.Drawing">
+    <value>443, 97</value>
+  </data>
+  <data name="cB_ip_dhcp.Size" type="System.Drawing.Size, System.Drawing">
+    <value>80, 24</value>
+  </data>
+  <data name="cB_ip_dhcp.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="cB_ip_dhcp.Text" xml:space="preserve">
+    <value>DHCP</value>
+  </data>
+  <data name="&gt;&gt;cB_ip_dhcp.Name" xml:space="preserve">
+    <value>cB_ip_dhcp</value>
+  </data>
+  <data name="&gt;&gt;cB_ip_dhcp.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cB_ip_dhcp.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;cB_ip_dhcp.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
+  <metadata name="vlanToolTip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>348, 21</value>
+  </metadata>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
@@ -996,7 +1212,7 @@
     <value>9, 20</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>453, 898</value>
+    <value>535, 898</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -1578,6 +1794,36 @@
   </data>
   <data name="&gt;&gt;Column_Name_VLAN.Type" xml:space="preserve">
     <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Column_IP_Adresse.Name" xml:space="preserve">
+    <value>Column_IP_Adresse</value>
+  </data>
+  <data name="&gt;&gt;Column_IP_Adresse.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;vlanToolTip.Name" xml:space="preserve">
+    <value>vlanToolTip</value>
+  </data>
+  <data name="&gt;&gt;vlanToolTip.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolTip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;iPAUTOToolStripMenuItem.Name" xml:space="preserve">
+    <value>iPAUTOToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;iPAUTOToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;activerToolStripMenuItem.Name" xml:space="preserve">
+    <value>activerToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;activerToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;désactiverToolStripMenuItem.Name" xml:space="preserve">
+    <value>désactiverToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;désactiverToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>VlanChangerApp</value>

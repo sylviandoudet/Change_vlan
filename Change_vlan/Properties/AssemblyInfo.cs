@@ -7,9 +7,9 @@ using System.Runtime.InteropServices;
 // l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
 [assembly: AssemblyTitle("Change_vlan")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Application permettant de changer de vlan rapidement")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("NAEP Groupe Saint Bénigne")]
 [assembly: AssemblyProduct("Change_vlan")]
 [assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("NAEP Groupe Saint Bénigne")]
@@ -33,6 +33,6 @@ using System.Runtime.InteropServices;
 // Vous pouvez spécifier toutes les valeurs ou indiquer les numéros de build et de révision par défaut
 // en utilisant '*', comme indiqué ci-dessous :
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("2.1.0.1")]
-[assembly: AssemblyFileVersion("2.1.0.1")]
+[assembly: AssemblyVersion("3.0.0.0")]
+[assembly: AssemblyFileVersion("3.0.0.0")]
 [assembly: NeutralResourcesLanguage("fr")]
