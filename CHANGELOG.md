@@ -21,7 +21,8 @@ et peuvent être incomplètes.
 - Amélioration du message d’erreur lorsque la carte réseau n’expose pas de mot-clé VLAN :
   le nom de la carte est inclus et le texte invite à contacter le support.
 - Sélection de la première carte réseau détectée si `NameNetworkCard.csv` est absent **ou vide**
-  (cas mieux géré qu’avant).
+  (cas mieux géré qu’avant).  
+- suppression de plusieurs lignes sélectionnées dans la `ListView`,
   
 ### Modifié
 - Centralisation de la détection du mot-clé VLAN dans `DetectVlanRegistryKeyword()` +
@@ -38,6 +39,7 @@ et peuvent être incomplètes.
   - remet `_vlanRegistryKeyword` à `null` lorsque la carte par défaut est sélectionnée parce que
     le fichier est absent ou vide,
   - renforce la gestion du cas “aucune carte réseau détectée”.
+- Ajustements visuels de la fenêtre principale.
 
 ### Corrigé
 - Cas où `NameNetworkCard.csv` existe mais est vide : la carte réseau n’était pas toujours correctement
@@ -50,12 +52,10 @@ et peuvent être incomplètes.
 
 ## [2.1.0] - 2025-02-17
 
-> Version précédente à 3.0, telle que présente sur GitHub (AssemblyVersion `2.1.0.*`).
 
 ### Ajouté
 - Améliorations de la gestion de la liste des VLAN :
   - édition des VLAN existants,
-  - suppression de plusieurs lignes sélectionnées dans la `ListView`,
   - validation de base sur l’ID VLAN et le format IP/CIDR.
 - Mise à jour de la documentation (README / README.txt).
 
@@ -69,8 +69,6 @@ et peuvent être incomplètes.
 ---
 
 ## [2.0.0] - 2025-01-31
-
-> Première version 2.x, basée sur l’appli de systray existante.
 
 ### Ajouté
 - Version “stabilisée” de l’interface de gestion des VLAN (ajout / modification / suppression).
@@ -87,8 +85,6 @@ et peuvent être incomplètes.
 ---
 
 ## [1.0.0] - 2024-04-29
-
-> Première publication sur GitHub.
 
 ### Ajouté
 - Application de changement de VLAN pour Windows :
