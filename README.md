@@ -26,7 +26,8 @@ VlanChangerApp est une application Windows Forms permettant de gérer les VLANs 
 
 Le fichier `VlanListe.csv` doit contenir les informations sur les VLANs. Chaque ligne doit être au format suivant : <VLAN_ID>;<Description>;<Mode_IP>;<Adresse_IP>;<CIDR>
 
-Exemple : 1;VLAN 1;DHCP;; 2;VLAN 2;STATIC;192.168.1.10;24
+Exemple :   1;VLAN 1;DHCP;; 
+            2;VLAN 2;STATIC;192.168.1.10;24
 
 #### NameNetworkCard.csv
 
