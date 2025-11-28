@@ -62,6 +62,9 @@
             this.network4ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.network5ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.listeDesVLANToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.iPAUTOToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.activerToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.désactiverToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.quitterToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.BTN_ADD_VLAN = new System.Windows.Forms.Button();
             this.BTN_SUPP_VLAN = new System.Windows.Forms.Button();
@@ -82,9 +85,6 @@
             this.cB_ip_static = new System.Windows.Forms.CheckBox();
             this.cB_ip_dhcp = new System.Windows.Forms.CheckBox();
             this.vlanToolTip = new System.Windows.Forms.ToolTip(this.components);
-            this.iPAUTOToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.activerToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.désactiverToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.contextMenuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -289,6 +289,26 @@
             resources.ApplyResources(this.listeDesVLANToolStripMenuItem, "listeDesVLANToolStripMenuItem");
             this.listeDesVLANToolStripMenuItem.Click += new System.EventHandler(this.listeDesVLANToolStripMenuItem_Click);
             // 
+            // iPAUTOToolStripMenuItem
+            // 
+            this.iPAUTOToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.activerToolStripMenuItem,
+            this.désactiverToolStripMenuItem});
+            this.iPAUTOToolStripMenuItem.Name = "iPAUTOToolStripMenuItem";
+            resources.ApplyResources(this.iPAUTOToolStripMenuItem, "iPAUTOToolStripMenuItem");
+            // 
+            // activerToolStripMenuItem
+            // 
+            this.activerToolStripMenuItem.Name = "activerToolStripMenuItem";
+            resources.ApplyResources(this.activerToolStripMenuItem, "activerToolStripMenuItem");
+            this.activerToolStripMenuItem.Click += new System.EventHandler(this.activerToolStripMenuItem_Click);
+            // 
+            // désactiverToolStripMenuItem
+            // 
+            this.désactiverToolStripMenuItem.Name = "désactiverToolStripMenuItem";
+            resources.ApplyResources(this.désactiverToolStripMenuItem, "désactiverToolStripMenuItem");
+            this.désactiverToolStripMenuItem.Click += new System.EventHandler(this.désactiverToolStripMenuItem_Click);
+            // 
             // quitterToolStripMenuItem
             // 
             this.quitterToolStripMenuItem.Name = "quitterToolStripMenuItem";
@@ -320,11 +340,13 @@
             // 
             resources.ApplyResources(this.txtB_ID_VLAN, "txtB_ID_VLAN");
             this.txtB_ID_VLAN.Name = "txtB_ID_VLAN";
+            this.txtB_ID_VLAN.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtB_ID_VLAN_KeyDown);
             // 
             // txtB_Name_VLAN
             // 
             resources.ApplyResources(this.txtB_Name_VLAN, "txtB_Name_VLAN");
             this.txtB_Name_VLAN.Name = "txtB_Name_VLAN";
+            this.txtB_Name_VLAN.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtB_Name_VLAN_KeyDown);
             // 
             // lb_ID_VLAN
             // 
@@ -338,6 +360,7 @@
             // 
             // listView_Vlan_Liste
             // 
+            resources.ApplyResources(this.listView_Vlan_Liste, "listView_Vlan_Liste");
             this.listView_Vlan_Liste.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
             this.Column_ID_VLAN,
             this.Column_Name_VLAN,
@@ -346,13 +369,12 @@
             this.listView_Vlan_Liste.GridLines = true;
             this.listView_Vlan_Liste.HeaderStyle = System.Windows.Forms.ColumnHeaderStyle.Nonclickable;
             this.listView_Vlan_Liste.HideSelection = false;
-            resources.ApplyResources(this.listView_Vlan_Liste, "listView_Vlan_Liste");
-            this.listView_Vlan_Liste.MultiSelect = false;
             this.listView_Vlan_Liste.Name = "listView_Vlan_Liste";
             this.listView_Vlan_Liste.Scrollable = false;
             this.listView_Vlan_Liste.UseCompatibleStateImageBehavior = false;
             this.listView_Vlan_Liste.View = System.Windows.Forms.View.Details;
             this.listView_Vlan_Liste.SelectedIndexChanged += new System.EventHandler(this.listView_Vlan_Liste_SelectedIndexChanged);
+            this.listView_Vlan_Liste.KeyDown += new System.Windows.Forms.KeyEventHandler(this.listView_Vlan_Liste_KeyDown);
             // 
             // Column_ID_VLAN
             // 
@@ -375,11 +397,13 @@
             // 
             resources.ApplyResources(this.txtB_IP_Adresse, "txtB_IP_Adresse");
             this.txtB_IP_Adresse.Name = "txtB_IP_Adresse";
+            this.txtB_IP_Adresse.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtB_IP_Adresse_KeyDown);
             // 
             // txtB_CIDR
             // 
             resources.ApplyResources(this.txtB_CIDR, "txtB_CIDR");
             this.txtB_CIDR.Name = "txtB_CIDR";
+            this.txtB_CIDR.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtB_CIDR_KeyDown);
             // 
             // lb_cidr
             // 
@@ -406,26 +430,7 @@
             this.cB_ip_dhcp.Name = "cB_ip_dhcp";
             this.cB_ip_dhcp.UseVisualStyleBackColor = true;
             this.cB_ip_dhcp.CheckedChanged += new System.EventHandler(this.cB_ip_dhcp_CheckedChanged);
-            // 
-            // iPAUTOToolStripMenuItem
-            // 
-            this.iPAUTOToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.activerToolStripMenuItem,
-            this.désactiverToolStripMenuItem});
-            this.iPAUTOToolStripMenuItem.Name = "iPAUTOToolStripMenuItem";
-            resources.ApplyResources(this.iPAUTOToolStripMenuItem, "iPAUTOToolStripMenuItem");
-            // 
-            // activerToolStripMenuItem
-            // 
-            this.activerToolStripMenuItem.Name = "activerToolStripMenuItem";
-            resources.ApplyResources(this.activerToolStripMenuItem, "activerToolStripMenuItem");
-            this.activerToolStripMenuItem.Click += new System.EventHandler(this.activerToolStripMenuItem_Click);
-            // 
-            // désactiverToolStripMenuItem
-            // 
-            this.désactiverToolStripMenuItem.Name = "désactiverToolStripMenuItem";
-            resources.ApplyResources(this.désactiverToolStripMenuItem, "désactiverToolStripMenuItem");
-            this.désactiverToolStripMenuItem.Click += new System.EventHandler(this.désactiverToolStripMenuItem_Click);
+            this.cB_ip_dhcp.KeyDown += new System.Windows.Forms.KeyEventHandler(this.cB_ip_dhcp_KeyDown);
             // 
             // VlanChangerApp
             // 
@@ -446,8 +451,7 @@
             this.Controls.Add(this.BTN_MODIF_VLAN);
             this.Controls.Add(this.BTN_SUPP_VLAN);
             this.Controls.Add(this.BTN_ADD_VLAN);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
-            this.MaximizeBox = false;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.SizableToolWindow;
             this.Name = "VlanChangerApp";
             this.ShowInTaskbar = false;
             this.WindowState = System.Windows.Forms.FormWindowState.Minimized;
